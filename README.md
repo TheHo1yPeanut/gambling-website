@@ -1,6 +1,9 @@
 # Simple Website with Login Feature
 
-This project is a simple web application that implements a basic login feature using MongoDB, Mongoose, and EJS. The application is built with Express and can be easily run using Nodemon for development.
+This project is a simple web application that implements a basic login feature using MongoDB, Mongoose, and EJS. It is a mines game from those online gambling websites which I have recreated. The application is built with Express and can be easily run using Nodemon for development.
+
+![image](https://github.com/user-attachments/assets/fd1b6a43-c8a8-43f9-bf2e-b42407e148ed)
+
 
 ## Setup Instructions
 
